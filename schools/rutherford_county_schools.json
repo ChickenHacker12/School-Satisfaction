@@ -1,0 +1,19 @@
+{
+  "schools": 
+  [
+    {
+  "name": "Rockvale High School",
+  "ratings": []
+    }
+  ,
+    {
+  "name": "Blackman High School",
+  "ratings": []
+    }
+  ,
+    {
+  "name": "Riverdale High School",
+  "ratings": []
+    }
+  ]
+}

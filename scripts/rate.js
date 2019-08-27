@@ -35,7 +35,7 @@ if (validUrl == -1) {
         dislikeBtn.setAttribute("type", "button");
         dislikeBtn.setAttribute("class", "dislike-btn");
         var dislikeIcon = document.createElement("img");
-        dislikeIcon.setAttribute("src", "../imgs/dislike.png");
+        dislikeIcon.setAttribute("src", "imgs/dislike.png");
         dislikeIcon.setAttribute("alt", "");
         dislikeBtn.appendChild(dislikeIcon);
         var dislikeBtnText = document.createTextNode("Dislike");
@@ -45,7 +45,7 @@ if (validUrl == -1) {
         likeBtn.setAttribute("type", "button");
         likeBtn.setAttribute("class", "dislike-btn");
         var likeIcon = document.createElement("img");
-        likeIcon.setAttribute("src", "../imgs/like.png");
+        likeIcon.setAttribute("src", "imgs/like.png");
         likeIcon.setAttribute("alt", "");
         likeBtn.appendChild(likeIcon);
         var likeBtnText = document.createTextNode("Like");

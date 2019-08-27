@@ -27,6 +27,7 @@ footer {
 
 .dislike-btn, .like-btn, .btn {
   -webkit-appearance: none;
+  display: inline-flex;
   margin: .125em;
   padding: .5em;
   background-color: #e5e5e5;
